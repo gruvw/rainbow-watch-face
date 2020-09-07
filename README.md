@@ -5,6 +5,7 @@
 
 # 🌈 Rainbow Watch Face
 <img align="right" alt="Watch Face GIF" src="https://raw.githubusercontent.com/gruvw/rainbow-watch-face/master/Gruvw_en_wf_packed_animated.gif" />
+
 In this little side project I created my own smart watch design.  
 
 It was designed to fit the [Xiaomi Mi Band 4](https://www.mi.com/global/mi-smart-band-4/).  
