@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-%3E%20280-green?style=for-the-badge" alt="Downloads counter" />
-  <img src="https://img.shields.io/badge/Views-%3E%20800-green?style=for-the-badge" alt="Views counter" />
+  <img src="https://img.shields.io/badge/Downloads-%3E%20300-green?style=for-the-badge" alt="Downloads counter" />
+  <img src="https://img.shields.io/badge/Views-%3E%20900-green?style=for-the-badge" alt="Views counter" />
 </p>
 
 # 🌈 Rainbow Watch Face
